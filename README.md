@@ -1,7 +1,7 @@
 # dotfiles
 Configs/Dotfiles
 
-PS1           --> is my ps1 setup ('(pwd)$ ')
-Alacritty     --> Dracula + Window
-tmux          --> 100% ippsec
-settings.json --> windows-terminal-conf
+* tmux          --> 100% ippsec
+* Alacritty     --> Dracula + Window
+* PS1           --> is my ps1 setup ('(pwd)$ ')
+* settings.json --> windows-terminal-conf
